@@ -1,6 +1,6 @@
 import { describe, it, expect, beforeEach } from "vitest";
-import { SeriesCollection, PeliculasCollection, DocumentalesCollection } from "../src/DSIFlix"; // Ajusta la ruta según tu estructura
-import { Serie, Pelicula, Documental } from "../src/DSIFlix"; // Ajusta la ruta según tu estructura
+import { SeriesCollection, PeliculasCollection, DocumentalesCollection } from "../src/EJ1"; // Ajusta la ruta según tu estructura
+import { Serie, Pelicula, Documental } from "../src/EJ1"; // Ajusta la ruta según tu estructura
 
 describe("SeriesCollection", () => {
   let seriesCollection: SeriesCollection;
