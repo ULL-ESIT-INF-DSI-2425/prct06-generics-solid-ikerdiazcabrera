@@ -1,4 +1,4 @@
-import { PrintableCollection } from "./printableCollection";
+import { PrintableCollection } from "./printableCollection.js";
 
 /**
  * 

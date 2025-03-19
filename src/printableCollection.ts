@@ -1,5 +1,5 @@
-import { Collectable } from "./interface_collectable";
-import { Printable } from "./interface_printable";
+import { Collectable } from "./interface_collectable.js";
+import { Printable } from "./interface_printable.js";
 
 /**
  * 

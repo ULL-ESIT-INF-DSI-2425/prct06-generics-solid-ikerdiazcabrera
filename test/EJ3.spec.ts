@@ -1,7 +1,7 @@
 import { describe, it, expect, beforeEach, vi } from "vitest";
 import * as fs from "fs";
-import { LocalFileManager } from "../src/EJ3";
-import { FileService } from "../src/EJ3";
+import { LocalFileManager } from "../src/EJ3.js";
+import { FileService } from "../src/EJ3.js";
 
 // Mock de fs para evitar manipular archivos reales
 vi.mock("fs");

@@ -1,6 +1,6 @@
 import { describe, it, expect } from "vitest";
-import { NumericPrintableCollection } from '../src/numericPrintableCollection';
-import { StringPrintableCollection } from '../src/stringPrintableCollection';
+import { NumericPrintableCollection } from '../src/numericPrintableCollection.js';
+import { StringPrintableCollection } from '../src/stringPrintableCollection.js';
 
 describe("NumericPrintableCollection", () => {
   let numberCollection: NumericPrintableCollection;
